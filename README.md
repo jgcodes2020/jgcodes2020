@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ## About me
 "Well sometimes, that's how life is and you just have to deal with it" - me in 5th grade
-**Things I do**
+
+**Things I do**  
 I code a lot. Yea. I've got Python, JS (web), Java, and C++ down pretty good at the moment.
 ## Stuff I'm doing
 **Under active development**
