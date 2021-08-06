@@ -1,4 +1,4 @@
-# Hi there! I'm jgcodes2020! 👋
+# Heyo! 👋
 
 <!--
 **jgcodes2020/jgcodes2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +26,6 @@ I code a lot. Yea. I've got Python, JS (web), Java, and C++ down pretty good at 
 **Not maintained, but done nonetheless**
 - **[my grade 9 business/tech summative](https://github.com/jgcodes2020/hackathon-uhs)**: Advertises a (fictional) game jam at my school.
 - **[an analog clock in JavaFX](https://github.com/jgcodes2020/JFX-Analog-Clock)**: It works OK, and has downloads for Windows.
+
+## Future plans for this readme
+Maybe, just maybe I'll make a playable game in this somehow.
