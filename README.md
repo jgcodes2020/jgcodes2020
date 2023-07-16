@@ -14,18 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![jgcodes2020's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgcodes2020&theme=github_dark)
 ## About me
-"Well sometimes, that's how life is and you just have to deal with it" - me in 5th grade
+I'm a 12th grade student who mostly focuses on low-level programming and dabbles in computer graphics.
 
-**Things I do**  
-I code a lot. Yea. I've got Python, JS (web), Java, and C++ down pretty good at the moment.
 ## Stuff I'm doing
 **Under active development**
-- **[Pancake](https://github.com/jgcodes2020/pancake)**: A library I'm writing that may help save the final any% A press in Super Mario 64.
+- A full rewrite of [Mupen64-RR](https://github.com/mkdasher/mupen64-rr-lua-) using modern frameworks and emulators
+  - **[mupen64plus-core-rr](https://github.com/Mupen64-Rewrite/mupen64plus-core-rr)**: Fork of the Mupen64Plus emulator
+  [core](https://github.com/mupen64plus/mupen64plus-core) supporting input recording and video capture.
+  - **M64RPFW**: C#/Avalonia-based GUI for [mupen64plus-core-rr](https://github.com/Mupen64-Rewrite/mupen64plus-core-rr). The
+  repository is private right now, so I can't link it.
+  - **[TinCan.NET](https://github.com/Mupen64-Rewrite/TinCan.NET)**: Rewrite of the TASInput plugin based on C#/Avalonia and ZeroMQ for IPC.
 
-**Not maintained, but done nonetheless**
+**Not actively developed**
+- **[my grade 11 communications tech portfolio](https://github.com/jgcodes2020/comtech11-portfolio)**: A portfolio site I built for Communications Tech class.
+- **[Pancake](https://github.com/jgcodes2020/pancake)**: A library that interacts with a modified version of the [SM64 PC port](https://github.com/sm64-port/sm64-port)
 - **[my grade 9 business/tech summative](https://github.com/jgcodes2020/hackathon-uhs)**: Advertises a (fictional) game jam at my school.
-- **[an analog clock in JavaFX](https://github.com/jgcodes2020/JFX-Analog-Clock)**: It works OK, and has downloads for Windows.
-
-## Future plans for this readme
-Maybe, just maybe I'll make a playable game in this somehow.
+- **[an analog clock in JavaFX](https://github.com/jgcodes2020/JFX-Analog-Clock)**: Small project I did to learn JavaFX.
